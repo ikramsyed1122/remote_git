@@ -1,1 +1,2 @@
 this is new branch code for git distributed
+this wasn't enough contribution, so i edited again
